@@ -1,0 +1,3 @@
+# h2omg init script
+/vendor/bin/hw/init.h2omg.sh           u:object_r:h2omg_vendor_exec:s0
+
